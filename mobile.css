@@ -3,7 +3,7 @@
         background: linear-gradient(45deg,#072001,#010304,#021E22) no-repeat;
         padding-top:60px;
     }
-    .menu{
+    #menu{
         display:none;
     }
     .menu_btn{
